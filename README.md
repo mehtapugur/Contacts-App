@@ -6,7 +6,7 @@
    - Indicates the number of results.
    - Records can be added to the list.
 
-![Color Palette_ #93B5C6 #C9CCD5 #E4D8DC #FFE3E3 - Color Hunt - Google Chrome 10_11_2021 3_10_06 AM](https://user-images.githubusercontent.com/24686636/136718251-c956ab58-30cf-4557-96f3-e51564be796f.png)
+![Color Palette_ #93B5C6 #C9CCD5 #E4D8DC #FFE3E3 - Color Hunt - Google Chrome 10_11_2021 3_10_06 AM](https://user-images.githubusercontent.com/24686636/136718435-40dc7c37-56f1-4f50-8b14-6922c6f81c1c.png)
 
 
 
