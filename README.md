@@ -1,9 +1,13 @@
-###  Contacts App
+##  Contacts App
 
-  #### Ne yapar?
-   - jsdnfk
+  ### What does it do?
+   - Lists all records in the contact list on the landing page.
+   - Shows results according to the entered name or number.
+   - Indicates the number of results.
+   - Records can be added to the list.
 
-<hr/>
+
+
 ### `yarn start`
 
 Runs the app in the development mode.\
